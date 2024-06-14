@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student at Harbin Institute of Technology, Shenzhen, engaging in research jointly with Peng Cheng Laboratory. My PhD work is overseen by Prof. Hezhenyu from the School of Computer Science at Harbin Institute of Technology, Shenzhen, and Prof. Guiweihua from Peng Cheng Laboratory. Alongside my doctoral studies, I serve as a Research Scientist in the Data-Speech Department at TikTok, focusing on speech technology and natural language processing (NLP).
+I am currently a second-year PhD student at Harbin Institute of Technology, Shenzhen, engaging in research jointly with Peng Cheng Laboratory. My PhD work is overseen by Prof. Hezhenyu from the School of Computer Science at Harbin Institute of Technology, Shenzhen, and Prof. Guiweihua from Peng Cheng Laboratory.
 
 Prior to this, I worked as a researcher at The Chinese University of Hong Kong, Shenzhen, and the Shenzhen Institutes of Artificial Intelligence and Robotics for Society, where I focused on generative AI and extended reality (XR). Additionally, I had the honor of being the inaugural domestic representative for WebXR, organizing efforts that have been highly commended by government bodies and academic scholars.
 
