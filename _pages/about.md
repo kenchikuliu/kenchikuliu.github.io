@@ -1,6 +1,16 @@
-I am a second-year PhD student at Harbin Institute of Technology, Shenzhen, conducting my research in collaboration with Peng Cheng Laboratory. My PhD supervision is provided by Prof. Hezhenyu from the School of Computer Science at Harbin Institute of Technology, Shenzhen, and Prof. Guiweihua from Peng Cheng Laboratory. In addition to my studies, I also serve as a research scientist at PCL in Shenzhen, focusing on emerging technologies such as the metaverse, 3D generation, AI avatars, and VR/AR/MR.
+\documentclass{article}
+\usepackage{hyperref}
 
-I earned my master's degree from Harbin Institute of Technology, Shenzhen, under the guidance of Prof. Lijinhui and Prof. Hezhenyu. My research interests are centered around the metaverse, 3D vision, AI avatars, and VR/AR/MR technologies. I have contributed to over five papers and patents presented at top international AI conferences sponsored by IEEE.
+\begin{document}
 
-Dedicated to advancing immersive and interactive digital technologies, I am always open to academic exchange and collaboration. Feel free to contact me anytime for potential opportunities or discussions in these fields.
+\noindent I am currently a second-year PhD student at Harbin Institute of Technology, Shenzhen, engaging in research jointly with Peng Cheng Laboratory. My PhD work is overseen by Prof. Hezhenyu from the School of Computer Science at Harbin Institute of Technology, Shenzhen, and Prof. Guiweihua from Peng Cheng Laboratory. Alongside my doctoral studies, I serve as a Research Scientist in the Data-Speech Department at TikTok, focusing on speech technology and natural language processing (NLP).
 
+\noindent Prior to this, I worked as a researcher at The Chinese University of Hong Kong, Shenzhen, and the Shenzhen Institutes of Artificial Intelligence and Robotics for Society, where I focused on generative AI and extended reality (XR). Additionally, I had the honor of being the inaugural domestic representative for WebXR, organizing efforts that have been highly commended by government bodies and academic scholars.
+
+\noindent In addition to my academic and research roles, I act as a scientific advisor for multiple artificial intelligence companies, providing expertise in emerging technologies such as the metaverse, 3D vision, AI avatars, and VR/AR/MR. This position allows me to influence the development of next-generation AI solutions across various industries.
+
+\noindent I earned my master's degree from Harbin Institute of Technology, Shenzhen, under the guidance of Prof. Lijinhui and Prof. Hezhenyu. My research contributions include more than five papers and patents presented at top international AI conferences sponsored by IEEE.
+
+\noindent Dedicated to advancing immersive and interactive digital technologies, I am always open to academic exchange and collaboration. I am passionate about leveraging my expertise to foster innovation and enhance user experiences in digital environments. Please feel free to contact me anytime to discuss potential opportunities or ideas in these exciting fields.
+
+\end{document}
