@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student at Harbin Institute of Technology, Shenzhen, engaging in research jointly with Peng Cheng Laboratory. My PhD work is overseen by Prof. Hezhenyu from the School of Computer Science at Harbin Institute of Technology, Shenzhen, and Prof. Guiweihua from Peng Cheng Laboratory.
+I am currently a second-year PhD student at [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn), engaging in research jointly with [Peng Cheng Laboratory](https://www.pcl.ac.cn/). My PhD work is overseen by [Prof. Hezhenyu](https://faculty.hitsz.edu.cn/hezhenyu) from the School of Computer Science at Harbin Institute of Technology, Shenzhen, and Prof. Guiweihua from Peng Cheng Laboratory.
 
-Prior to this, I worked as a researcher at The Chinese University of Hong Kong, Shenzhen, and the Shenzhen Institutes of Artificial Intelligence and Robotics for Society, where I focused on generative AI and extended reality (XR). Additionally, I had the honor of being the inaugural domestic representative for WebXR, organizing efforts that have been highly commended by government bodies and academic scholars.
+Prior to this, I worked as a researcher at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/), and the [Shenzhen Institutes of Artificial Intelligence and Robotics for Society](https://airs.cuhk.edu.cn), where I focused on generative AI and extended reality (XR). Additionally, I had the honor of being the inaugural domestic representative for WebXR, organizing efforts that have been highly commended by government bodies and academic scholars.
 
 In addition to my academic and research roles, I act as a scientific advisor for multiple artificial intelligence companies, providing expertise in emerging technologies such as the metaverse, 3D vision, AI avatars, and VR/AR/MR. This position allows me to influence the development of next-generation AI solutions across various industries.
 
