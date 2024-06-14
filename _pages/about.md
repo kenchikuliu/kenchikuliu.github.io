@@ -19,9 +19,9 @@ Dedicated to advancing immersive and interactive digital technologies, I am alwa
 
 News
 ======
-2024.3.12 Our paper, 'BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras,' has been accepted for presentation at IAEAC 2024, highlighting significant enhancements in visual SLAM technology."
+-2024.3.12 Our paper, 'BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras,' has been accepted for presentation at IAEAC 2024, highlighting significant enhancements in visual SLAM technology."
 
-2024.6.14 Recent advancements in stereo visual-inertial initialization, improving translation accuracy for XR interaction scenarios, have been detailed in a new study published by Peng Cheng Laboratory researchers in IEEE ACIRS.
+-2024.6.14 Recent advancements in stereo visual-inertial initialization, improving translation accuracy for XR interaction scenarios, have been detailed in a new study published by Peng Cheng Laboratory researchers in IEEE ACIRS.
 
 More
 ======
