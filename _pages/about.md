@@ -29,11 +29,11 @@ Honors and Awards
 
 -National Encouragement Scholarship
 
--Excellence Award in Zhou Peiyuan Mechanics Competition
+-Excellence Award in Zhou Peiyuan Mechanics National Competition
 
--Second Prize in International Mathematical Modeling Competition
+-2nd Prize in International Mathematical Modeling Competition
 
--First Prize in National Higher Education Institutions Mathematical Modeling Competition
+-1st Prize in National Higher Education Institutions Mathematical Modeling Competition
 
 -First-Class Scholarship(School-level)
 
@@ -41,7 +41,7 @@ Honors and Awards
 
 -Silver Award in China "Internet +" Innovation and Entrepreneurship Competition
 
--Personal Honorary Title of "2025 Youth Maker Laboratory" of Harbin Institute of Technology
+-Personal Honorary Title of "2025 Youth Maker Laboratory" of Harbin Institute of Technology(1/30)
 
 
 More
