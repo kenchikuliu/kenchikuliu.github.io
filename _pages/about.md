@@ -23,6 +23,19 @@ News
 
 -2024.6.14 The paper ['Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization'](https://arxiv.org/abs/2405.15082) details recent advancements in stereo visual-inertial initialization, enhancing translation accuracy for XR interaction scenarios. This study, conducted by researchers at Peng Cheng Laboratory, has been published in IEEE ACIRS.
 
+Honors and Awards
+======
+National Scholarship
+National Encouragement Scholarship
+Excellence Award in Zhou Peiyuan Mechanics Competition
+Second Prize in International Mathematical Modeling Competition
+First Prize in National Higher Education Institutions Mathematical Modeling Competition
+School-level First-Class Scholarship
+School-level "Three Good" Student
+School-level Silver Award in China "Internet +" Innovation and Entrepreneurship Competition
+Personal Honorary Title of "2025 Youth Maker Laboratory" of Harbin Institute of Technology
+
+
 More
 ======
 I am always on the lookout for innovative and technically skilled individuals who share a passion for pushing the boundaries of technology. If you have a keen interest in academia and a spirit of innovation, I would love to explore potential collaborative opportunities. Together, we can drive advancements in our fields and develop solutions that make a significant impact. Whether you are deeply involved in research or are an enthusiast in areas like AI, XR, or any related fields, feel free to reach out to discuss how we might work together to turn visionary ideas into reality.
