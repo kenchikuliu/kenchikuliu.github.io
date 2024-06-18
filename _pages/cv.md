@@ -14,7 +14,7 @@ Education
 * Ph.D in Computer Science, HITsz & PCL, 2026 (expected)
 * M.S. in Computer Science and Civil Engineering, HITsz, 2019
   
-Skills
+Research area
 ======
 * 3D Computer Vision
 * Generative AI and LLM
