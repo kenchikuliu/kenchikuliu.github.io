@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "The Application and Research of Large Language Models in Industrial Scenarios"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Workshop"
+permalink: /teaching/2024-spring-teaching-1
+venue: "Harbin Institute of Technology, Shenzhen"
+date: 2024-05-01
+location: "Shenzhen, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This teaching experience is about the application and research of large language models in industrial scenarios at Harbin Institute of Technology, Shenzhen in May 2024. The workshop aims to delve into innovative methods for promoting the utilization of large language models in industrial settings. 
 
 Heading 1
 ======
