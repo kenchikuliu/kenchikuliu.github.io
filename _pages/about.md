@@ -35,11 +35,11 @@ Honors and Awards
 
 -First Prize in National Higher Education Institutions Mathematical Modeling Competition
 
--School-level First-Class Scholarship
+-First-Class Scholarship(School-level)
 
--School-level "Three Good" Student
+-Merit Student(School-level)
 
--School-level Silver Award in China "Internet +" Innovation and Entrepreneurship Competition
+-Silver Award in China "Internet +" Innovation and Entrepreneurship Competition
 
 -Personal Honorary Title of "2025 Youth Maker Laboratory" of Harbin Institute of Technology
 
