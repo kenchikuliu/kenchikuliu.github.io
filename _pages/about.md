@@ -41,7 +41,7 @@ Honors and Awards
 
 -Merit Student(School-level)
 
--Silver Award in China "Internet +" Innovation and Entrepreneurship Competition
+-Golden Award in China "Internet +" Innovation and Entrepreneurship Competition(School-Level)
 
 -Personal Honorary Title of "2025 Youth Maker Laboratory" of Harbin Institute of Technology(1/30)
 
