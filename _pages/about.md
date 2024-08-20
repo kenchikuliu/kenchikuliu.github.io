@@ -21,7 +21,7 @@ News
 ======
 -2024.3.12 ['BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras'](https://arxiv.org/abs/2403.19886) has been accepted for presentation at IEEE IAEAC 2024, highlighting significant enhancements in visual SLAM technology."
 
--2024.6.14 The paper ['Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization'](https://arxiv.org/abs/2405.15082) details recent advancements in stereo visual-inertial initialization, enhancing translation accuracy for XR interaction scenarios. This study, conducted by researchers at Peng Cheng Laboratory, has been published in IEEE ACIRS.
+-2024.6.14 The paper ['Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization'](https://arxiv.org/abs/2405.15082) details recent advancements in stereo visual-inertial initialization that enhance translation accuracy for XR interaction scenarios. This study has been published in IEEE ACIRS and was selected as an Oral Presentation.
 
 -2024.8.19 The paper ['Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis'](https://www.arxiv.org/abs/2408.05635)  has been accepted for presentation at CEI 2024, showcasing advancements in visual SLAM through 3D Gaussian primitives and depth priors for novel view synthesis.
 
