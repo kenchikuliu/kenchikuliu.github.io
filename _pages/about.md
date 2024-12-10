@@ -25,6 +25,10 @@ News
 
 -2024.8.19 The paper ['Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis'](https://www.arxiv.org/abs/2408.05635)  has been accepted for presentation at CEI 2024, showcasing advancements in visual SLAM through 3D Gaussian primitives and depth priors for novel view synthesis.
 
+- **2024.12.05** The paper **‘MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo’** introduces a novel approach leveraging multi-granularity segmentation priors to enhance multi-view stereo techniques. It has been **accepted at AAAI 2025**, showcasing significant advancements in segmentation-guided 3D reconstruction.
+
+- **2024.12.05** The paper **‘DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo’** explores the integration of depth-edge and visibility priors to improve multi-view stereo performance. This work has been **accepted at AAAI 2025**, highlighting its contributions to depth and visibility synergy in 3D reconstruction.
+
 Honors and Awards
 ======
 -National Scholarship
