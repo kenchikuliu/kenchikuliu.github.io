@@ -19,18 +19,28 @@ Dedicated to advancing immersive and interactive digital technologies, I am alwa
 
 News
 ======
--2024.3.12 ['BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras'](https://arxiv.org/abs/2403.19886) has been accepted for presentation at IEEE IAEAC 2024, highlighting significant enhancements in visual SLAM technology."
+- **2024.3.12** **['BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras'](https://arxiv.org/abs/2403.19886)** has been accepted for presentation at **IEEE IAEAC 2024**, highlighting significant enhancements in visual SLAM technology."
 
--2024.6.14 The paper ['Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization'](https://arxiv.org/abs/2405.15082) details recent advancements in stereo visual-inertial initialization that enhance translation accuracy for XR interaction scenarios. This study has been published in IEEE ACIRS and was selected as an Oral Presentation.
+- **2024.6.14** The paper **['Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization'](https://arxiv.org/abs/2405.15082)** details recent advancements in stereo visual-inertial initialization that enhance translation accuracy for XR interaction scenarios. This study has been published in **IEEE ACIRS 2024** and was selected as an Oral Presentation.
 
--2024.8.19 The paper ['Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis'](https://www.arxiv.org/abs/2408.05635)  has been accepted for presentation at CEI 2024, showcasing advancements in visual SLAM through 3D Gaussian primitives and depth priors for novel view synthesis.
+- **2024.8.19** The paper **['Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis'](https://www.arxiv.org/abs/2408.05635)** has been **accepted for presentation at CEI 2024**, showcasing advancements in visual SLAM through 3D Gaussian primitives and depth priors for novel view synthesis.
 
--2024.12.05 The paper **‘MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo’** introduces a novel approach leveraging multi-granularity segmentation priors to enhance multi-view stereo techniques. It has been **accepted at AAAI 2025**, showcasing significant advancements in segmentation-guided 3D reconstruction.
+- **2024.12.05** The paper **[‘MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo’](https://arxiv.org/abs/2407.19323)** has been **accepted at AAAI 2025**, introducing a novel approach leveraging multi-granularity segmentation priors to enhance multi-view stereo techniques and improve 3D reconstruction.
 
--2024.12.05 The paper **‘DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo’** explores the integration of depth-edge and visibility priors to improve multi-view stereo performance. This work has been **accepted at AAAI 2025**, highlighting its contributions to depth and visibility synergy in 3D reconstruction.
+- **2024.12.05** The paper **[‘DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo’](https://arxiv.org/abs/2412.11578)** has been **accepted at AAAI 2025**, exploring the integration of depth-edge and visibility priors to improve multi-view stereo performance and contribute to depth and visibility synergy in 3D reconstruction.
+
+- **2025.1** The paper **['MR-IntelliAssist: A World Cognition Agent for Multimodal Human-AI Collaboration in Smart Manufacturing'](https://arxiv.org/abs/your-paper-link)** introduces a world cognition agent designed to enhance multimodal human-AI collaboration in smart manufacturing. This paper has been accepted for **HCII 2025**, focusing on advancing smart manufacturing systems through AI-assisted collaboration.
+- 
+- **2025.1** Invited to be a **member of the Editorial Board** for the **Journal of Advances in Engineering and Technology**.
+
+- **2025.2** Invited to be a **member of the Editorial Board** for **Journal of Deep Learning and Pattern Recognition**.
+
+
+
 
 Honors and Awards
 ======
+
 -National Scholarship
 
 -National Encouragement Scholarship
