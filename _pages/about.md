@@ -30,7 +30,7 @@ News
 - **2024.12.05** The paper **[‘DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo’](https://arxiv.org/abs/2412.11578)** has been **accepted at AAAI 2025**, exploring the integration of depth-edge and visibility priors to improve multi-view stereo performance and contribute to depth and visibility synergy in 3D reconstruction.
 
 - **2025.1** The paper **['MR-IntelliAssist: A World Cognition Agent for Multimodal Human-AI Collaboration in Smart Manufacturing'](https://arxiv.org/abs/your-paper-link)** introduces a world cognition agent designed to enhance multimodal human-AI collaboration in smart manufacturing. This paper has been accepted for **HCII 2025**, focusing on advancing smart manufacturing systems through AI-assisted collaboration.
-- 
+
 - **2025.1** Invited to be a **member of the Editorial Board** for the **Journal of Advances in Engineering and Technology**.
 
 - **2025.2** Invited to be a **member of the Editorial Board** for **Journal of Deep Learning and Pattern Recognition**.
