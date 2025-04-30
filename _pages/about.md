@@ -21,6 +21,13 @@ News
 ======
 ## Liu Cong's Papers
 
+- **2025.4** Invited as **Outstanding Paper Awardee** for **3rd Guangdong-Hong Kong-Macao Greater Bay Area Interdisciplinary Doctoral Forum 2025 (Machine Reasoning and Human Reasoning Panel)**.
+
+- **2025.3** Invited as **Reviewer** for multiple top-tier conferences:  
+  **ACL Annual Rolling Review (ARR 2025)**;  
+  **ACM Multimedia 2025 Workshop on Multimodal & Spatial Intelligence**;  
+  **IEEE ICMEIE 2025 (Multimedia Engineering in Industry)**.
+
 - **2025.2** Invited to be a **member of the Editorial Board** [![Journal of Deep Learning and Pattern Recognition](https://img.fy6b.com/2025/02/08/3e5e2a744fb65.png)](https://img.fy6b.com/2025/02/08/3e5e2a744fb65.png) for **Journal of Deep Learning and Pattern Recognition**.
 
 - **2025.1** Invited to be a **member of the Editorial Board** [![Journal of Advances in Engineering and Technology](https://img.fy6b.com/2025/02/08/c4c095d245317.png)](https://img.fy6b.com/2025/02/08/c4c095d245317.png) for the **Journal of Advances in Engineering and Technology**.
