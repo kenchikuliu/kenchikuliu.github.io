@@ -23,17 +23,16 @@ News
 
 ### Academic Services
 
-- **2025.5** Invited as **Reviewer** for:  
-  **IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2025)**;  
-  *Agents in Interactions, from Humans to Robots* Workshop (**CVPR 2025**, Nashville, TN, USA).
+- **2025.5** Invited as **Reviewer** for:
+  *Agents in Interactions, from Humans to Robots* Workshop (**CVPR 2025**, Nashville, TN, USA);
+  **IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2025)**.
 
 - **2025.4** Invited as **Outstanding Paper Awardee** for:  
   **3rd Guangdong-Hong Kong-Macao Greater Bay Area Interdisciplinary Doctoral Forum 2025** (Machine Reasoning and Human Reasoning Panel).
 
 - **2025.3** Invited as **Reviewer** for:
-  *Multimodal Foundation Models for Spatial Intelligence* Workshop (Dublin, Ireland, 27-28 Oct 2025).
+  *Multimodal Foundation Models for Spatial Intelligence* Workshop (**ACM Multimedia 2025**, Dublin, Ireland, 27-28 Oct 2025);
   **ACL Annual Rolling Review (ARR 2025)**;  
-  *Multimodal & Spatial Intelligence* Workshop (**ACM Multimedia 2025**, Virtual);  
   **IEEE ICMEIE 2025** (Multimedia Engineering in Industry).
 
 - **2025.2** Invited to be a **member of the Editorial Board** [![Journal of Deep Learning and Pattern Recognition](https://img.fy6b.com/2025/02/08/3e5e2a744fb65.png)](https://img.fy6b.com/2025/02/08/3e5e2a744fb65.png) for **Journal of Deep Learning and Pattern Recognition**.
