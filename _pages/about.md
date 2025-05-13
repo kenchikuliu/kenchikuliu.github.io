@@ -17,11 +17,19 @@ I earned my master's degree from Harbin Institute of Technology, Shenzhen, under
 
 Dedicated to advancing immersive and interactive digital technologies, I am always open to academic exchange and collaboration. I am passionate about leveraging my expertise to foster innovation and enhance user experiences in digital environments. Please feel free to contact me anytime to discuss potential opportunities or ideas in these exciting fields.
 
+Research Interests
+======
+#Digital Twin #Visual SLAM #3D Reconstruction #XR (AR/VR/MR) #LLMs #Human-AI Interaction #Generative AI #Operational Twins #Immersive Teleoperation #Intelligent Decision Support
+
 News
 ======
 ## Liu Cong's Papers
 
 ### Academic Services
+
+- **2025.5** The paper **['PLAT: Predictive LLM-Driven Active Teleoperation with Adaptive Vision and Interaction Optimization'](https://arxiv.org/abs/your-paper-link)** presents a predictive teleoperation framework leveraging large language models to optimize vision-based control and multimodal human-machine interaction. This work has been accepted for **HCII 2025**, highlighting novel pathways in enhancing responsiveness and adaptiveness in remote robotic control.
+
+- **2025.5** The paper **['From Digital Twins to Operational Twins: Enhancing Real-Time Human-System Interaction and Adaptive Decision Support with DeepSeek R1'](https://arxiv.org/abs/your-paper-link)** proposes an advanced “Operational Twins” framework powered by DeepSeek R1, enabling predictive modeling of operator behavior and real-time AR feedback for intelligent decision support. This paper has been accepted for **HCII 2025**, contributing to the evolution of digital twin technology in industrial AI.
 
 - **2025.5** Invited as **Reviewer** for:
   
