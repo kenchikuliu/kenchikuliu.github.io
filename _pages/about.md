@@ -27,15 +27,20 @@ News
 
 ### Academic Services
 
-- **2025.5** The paper **['PLAT: Predictive LLM-Driven Active Teleoperation with Adaptive Vision and Interaction Optimization'](https://arxiv.org/abs/your-paper-link)** presents a predictive teleoperation framework leveraging large language models to optimize vision-based control and multimodal human-machine interaction. This work has been accepted for **HCII 2025**, highlighting novel pathways in enhancing responsiveness and adaptiveness in remote robotic control.
+- **2025.5** The paper **['PLAT: Predictive LLM-Driven Active Teleoperation with Adaptive Vision and Interaction Optimization']** presents a predictive teleoperation framework leveraging large language models to optimize vision-based control and multimodal human-machine interaction. This work has been accepted for **HCII 2025**, highlighting novel pathways in enhancing responsiveness and adaptiveness in remote robotic control.
 
-- **2025.5** The paper **['From Digital Twins to Operational Twins: Enhancing Real-Time Human-System Interaction and Adaptive Decision Support with DeepSeek R1'](https://arxiv.org/abs/your-paper-link)** proposes an advanced “Operational Twins” framework powered by DeepSeek R1, enabling predictive modeling of operator behavior and real-time AR feedback for intelligent decision support. This paper has been accepted for **HCII 2025**, contributing to the evolution of digital twin technology in industrial AI.
+- **2025.5** The paper **['From Digital Twins to Operational Twins: Enhancing Real-Time Human-System Interaction and Adaptive Decision Support with DeepSeek R1']** proposes an advanced “Operational Twins” framework powered by DeepSeek R1, enabling predictive modeling of operator behavior and real-time AR feedback for intelligent decision support. This paper has been accepted for **HCII 2025**, contributing to the evolution of digital twin technology in industrial AI.
 
 - **2025.5** Invited as **Reviewer** for:
+  *2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT) at   **ICML 2025**, Vancouver, July 18 — focusing on test-time updates across learning settings and domains.*
+
+  *Proceedings of   **SciPy 2025** — Annual conference bringing together academia, industry, and government to showcase cutting-edge work in scientific computing (July 8–14, Tacoma, WA). Full proceedings and committee details available at proceedings.scipy.org;
   
   *Agents in Interactions, from Humans to Robots* Workshop (**CVPR 2025**, Nashville, TN, USA);
   
   **IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2025)**.
+
+  
 
 - **2025.4** Invited as **Outstanding Paper Awardee** for:  
   **3rd Guangdong-Hong Kong-Macao Greater Bay Area Interdisciplinary Doctoral Forum 2025** (Machine Reasoning and Human Reasoning Panel).
