@@ -32,6 +32,7 @@ News
 - **2025.5** The paper **['From Digital Twins to Operational Twins: Enhancing Real-Time Human-System Interaction and Adaptive Decision Support with DeepSeek R1']** proposes an advanced “Operational Twins” framework powered by DeepSeek R1, enabling predictive modeling of operator behavior and real-time AR feedback for intelligent decision support. This paper has been accepted for **HCII 2025**, contributing to the evolution of digital twin technology in industrial AI.
 
 - **2025.5** Invited as **Reviewer** for:
+  
   *2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT) at   **ICML 2025**, Vancouver, July 18 — focusing on test-time updates across learning settings and domains.*
 
   *Proceedings of   **SciPy 2025** — Annual conference bringing together academia, industry, and government to showcase cutting-edge work in scientific computing (July 8–14, Tacoma, WA). Full proceedings and committee details available at proceedings.scipy.org;
