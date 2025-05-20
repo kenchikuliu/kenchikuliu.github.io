@@ -41,9 +41,7 @@ News
   - [BMVC 2025](https://bmvc2025.org) — accepted the invitation to serve as reviewer for the British Machine Vision Conference 2025.
 
 - **2025.4** Awarded **Outstanding Paper** at the [**3rd Guangdong-Hong Kong-Macao Greater Bay Area Interdisciplinary Doctoral Forum 2025**](https://ias.um.edu.mo/category/%E7%B2%B5%E6%B8%AF%E6%BE%B3%E5%A4%A7%E7%81%A3%E5%8D%80%E8%B7%A8%E5%AD%B8%E7%A7%91%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%AB%96%E5%A3%87/?lang=zh-hant) (Machine Reasoning and Human Reasoning Panel).
-
-- **2025.4** Invited as **Outstanding Paper Awardee** for:  
-  **3rd Guangdong-Hong Kong-Macao Greater Bay Area Interdisciplinary Doctoral Forum 2025** (Machine Reasoning and Human Reasoning Panel).
+- 
 
 - **2025.3** Invited as **Reviewer** for:
   - *Multimodal Foundation Models for Spatial Intelligence* Workshop, [**ACM Multimedia 2025**](https://acmmm2025.org/), Dublin, Oct 27–28.
