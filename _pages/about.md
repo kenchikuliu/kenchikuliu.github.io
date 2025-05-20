@@ -27,48 +27,44 @@ News
 
 ### Academic Services
 
-- **2025.5** The paper **['PLAT: Predictive LLM-Driven Active Teleoperation with Adaptive Vision and Interaction Optimization']** presents a predictive teleoperation framework leveraging large language models to optimize vision-based control and multimodal human-machine interaction. This work has been accepted for **HCII 2025**, highlighting novel pathways in enhancing responsiveness and adaptiveness in remote robotic control.
 
-- **2025.5** The paper **['From Digital Twins to Operational Twins: Enhancing Real-Time Human-System Interaction and Adaptive Decision Support with DeepSeek R1']** proposes an advanced “Operational Twins” framework powered by DeepSeek R1, enabling predictive modeling of operator behavior and real-time AR feedback for intelligent decision support. This paper has been accepted for **HCII 2025**, contributing to the evolution of digital twin technology in industrial AI.
+- **2025.5** The paper **['PLAT: Predictive LLM-Driven Active Teleoperation with Adaptive Vision and Interaction Optimization'](https://2025.hci.international/)** presents a predictive teleoperation framework leveraging large language models to optimize vision-based control and multimodal human-machine interaction. This work has been accepted for **[HCII 2025](https://2025.hci.international/)**, highlighting novel pathways in enhancing responsiveness and adaptiveness in remote robotic control.
+
+- **2025.5** The paper **['From Digital Twins to Operational Twins: Enhancing Real-Time Human-System Interaction and Adaptive Decision Support with DeepSeek R1'](https://2025.hci.international/)** proposes an advanced “Operational Twins” framework powered by DeepSeek R1, enabling predictive modeling of operator behavior and real-time AR feedback for intelligent decision support. This paper has been accepted for **[HCII 2025](https://2025.hci.international/)**, contributing to the evolution of digital twin technology in industrial AI.
+
 
 - **2025.5** Invited as **Reviewer** for:
-  
-  *2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT) at   **ICML 2025**, Vancouver, July 18 — focusing on test-time updates across learning settings and domains.*
+  - [2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT)](https://sites.google.com/view/test-time-adaptation/icml-2025-put-workshop), **ICML 2025**, Vancouver, July 18.
+  - [SciPy 2025 Proceedings](https://proceedings.scipy.org/articles/proceedings-2024), July 8–14, Tacoma, WA.
+  - [Agents in Interactions, from Humans to Robots Workshop](https://humanrobotinteraction.github.io/aihr-cvpr2025/) (**CVPR 2025**, Nashville, TN).
+  - [IEEE ACDSA 2025](https://acidsa.org/) — International Conference on Artificial Intelligence, Computer, Data Sciences and Applications.
+  - [BMVC 2025](https://bmvc2025.org) — accepted the invitation to serve as reviewer for the British Machine Vision Conference 2025.
 
-  *Proceedings of   **SciPy 2025** — Annual conference bringing together academia, industry, and government to showcase cutting-edge work in scientific computing (July 8–14, Tacoma, WA). Full proceedings and committee details available at proceedings.scipy.org;
-  
-  *Agents in Interactions, from Humans to Robots* Workshop (**CVPR 2025**, Nashville, TN, USA);
-  
-  **IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2025)**.
-
-  
+- **2025.4** Awarded **Outstanding Paper** at the [**3rd Guangdong-Hong Kong-Macao Greater Bay Area Interdisciplinary Doctoral Forum 2025**](https://ias.um.edu.mo/category/%E7%B2%B5%E6%B8%AF%E6%BE%B3%E5%A4%A7%E7%81%A3%E5%8D%80%E8%B7%A8%E5%AD%B8%E7%A7%91%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%AB%96%E5%A3%87/?lang=zh-hant) (Machine Reasoning and Human Reasoning Panel).
 
 - **2025.4** Invited as **Outstanding Paper Awardee** for:  
   **3rd Guangdong-Hong Kong-Macao Greater Bay Area Interdisciplinary Doctoral Forum 2025** (Machine Reasoning and Human Reasoning Panel).
 
 - **2025.3** Invited as **Reviewer** for:
-  
-  *Multimodal Foundation Models for Spatial Intelligence* Workshop (**ACM Multimedia 2025**, Dublin, Ireland, 27-28 Oct 2025);
-  
-  **ACL Annual Rolling Review (ARR 2025)**;
-  
-  **IEEE ICMEIE 2025** (Multimedia Engineering in Industry).
+  - *Multimodal Foundation Models for Spatial Intelligence* Workshop, [**ACM Multimedia 2025**](https://acmmm2025.org/), Dublin, Oct 27–28.
+  - [**ACL ARR 2025**](https://aclrollingreview.org/) – Annual Rolling Review.
+  - [**IEEE ICMEIE 2025**](https://www.icmeie.com/) – Multimedia Engineering in Industry.
 
-- **2025.2** Invited to be a **member of the Editorial Board** [![Journal of Deep Learning and Pattern Recognition](https://img.fy6b.com/2025/02/08/3e5e2a744fb65.png)](https://img.fy6b.com/2025/02/08/3e5e2a744fb65.png) for **Journal of Deep Learning and Pattern Recognition**.
+- **2025.2** Invited to be a **member of the Editorial Board** [Journal of Deep Learning and Pattern Recognition](https://img.fy6b.com/2025/02/08/3e5e2a744fb65.png) for **Journal of Deep Learning and Pattern Recognition**.
 
-- **2025.1** Invited to be a **member of the Editorial Board** [![Journal of Advances in Engineering and Technology](https://img.fy6b.com/2025/02/08/c4c095d245317.png)](https://img.fy6b.com/2025/02/08/c4c095d245317.png) for the **Journal of Advances in Engineering and Technology**.
+- **2025.1** Invited to be a **member of the Editorial Board** [Journal of Advances in Engineering and Technology](https://img.fy6b.com/2025/02/08/c4c095d245317.png) for the **Journal of Advances in Engineering and Technology**.
 
-- **2025.1** The paper **['MR-IntelliAssist: A World Cognition Agent for Multimodal Human-AI Collaboration in Smart Manufacturing'](https://arxiv.org/abs/your-paper-link)** introduces a world cognition agent designed to enhance multimodal human-AI collaboration in smart manufacturing. This paper has been accepted for **HCII 2025**, focusing on advancing smart manufacturing systems through AI-assisted collaboration.
+- **2025.1** The paper **['MR-IntelliAssist: A World Cognition Agent for Multimodal Human-AI Collaboration in Smart Manufacturing'](https://arxiv.org/abs/your-paper-link)** introduces a world cognition agent designed to enhance multimodal human-AI collaboration in smart manufacturing. This paper has been accepted for **[HCII 2025](https://2025.hci.international/)**, focusing on advancing smart manufacturing systems through AI-assisted collaboration.
 
-- **2024.12.05** The paper **[‘DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo’](https://arxiv.org/abs/2412.11578)** has been **accepted at AAAI 2025**, exploring the integration of depth-edge and visibility priors to improve multi-view stereo performance and contribute to depth and visibility synergy in 3D reconstruction.
+- **2024.12.05** The paper **['DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo'](https://arxiv.org/abs/2412.11578)** has been **accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)**. This work explores the integration of depth-edge and visibility priors to improve multi-view stereo performance, contributing to enhanced 3D reconstruction techniques.
 
-- **2024.12.05** The paper **[‘MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo’](https://arxiv.org/abs/2407.19323)** has been **accepted at AAAI 2025**, introducing a novel approach leveraging multi-granularity segmentation priors to enhance multi-view stereo techniques and improve 3D reconstruction.
+- **2024.12.05** The paper **['MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo'](https://arxiv.org/abs/2407.19323)** has been **accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)**. This research introduces a novel approach leveraging multi-granularity segmentation priors to enhance multi-view stereo methods, advancing the field of 3D reconstruction.
 
-- **2024.8.19** The paper **['Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis'](https://www.arxiv.org/abs/2408.05635)** has been **accepted for presentation at CEI 2024**, showcasing advancements in visual SLAM through 3D Gaussian primitives and depth priors for novel view synthesis.
+- **2024.8.19** The paper **['Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis'](https://arxiv.org/abs/2408.05635)** has been **accepted for presentation at [CEI 2024](https://2024.ic-cei.org/)**, showcasing advancements in visual SLAM through 3D Gaussian primitives and depth priors for novel view synthesis.
 
-- **2024.6.14** The paper **['Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization'](https://arxiv.org/abs/2405.15082)** details recent advancements in stereo visual-inertial initialization that enhance translation accuracy for XR interaction scenarios. This study has been published in **IEEE ACIRS 2024** and was selected as an Oral Presentation.
+- **2024.6.14** The paper **['Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization'](https://arxiv.org/abs/2405.15082)** details recent advancements in stereo visual-inertial initialization that enhance translation accuracy for XR interaction scenarios. This study has been published in **[IEEE ACIRS 2024](https://ieeexplore.ieee.org/xpl/conhome/10684879/proceeding)** and was selected as an Oral Presentation.
 
-- **2024.3.12** The paper **['BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras'](https://arxiv.org/abs/2403.19886)** has been accepted for presentation at **IEEE IAEAC 2024**, highlighting significant enhancements in visual SLAM technology.
+- **2024.3.12** The paper **['BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras'](https://arxiv.org/abs/2403.19886)** has been accepted for presentation at **[IEEE IAEAC 2024](http://2024.iaeac.org/)**, highlighting significant enhancements in visual SLAM technology.
 
 
 Honors and Awards
