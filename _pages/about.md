@@ -13,7 +13,7 @@ Prior to this, I worked as a researcher at [The Chinese University of Hong Kong,
 
 In addition to my academic and research roles, I act as a scientific advisor for multiple artificial intelligence companies, providing expertise in emerging technologies such as the metaverse, 3D vision, AI avatars, and VR/AR/MR. This position allows me to influence the development of next-generation AI solutions across various industries.
 
-I earned my master's degree from Harbin Institute of Technology, Shenzhen, under the guidance of Prof. Lijinhui and Prof. Hezhenyu. My research contributions include more than five papers and patents presented at top international AI conferences sponsored by IEEE.
+I earned my master's degree from Harbin Institute of Technology, Shenzhen, under the guidance of Prof. Lijinhui and Prof. Hezhenyu. My research contributions include more than 10 papers and patents presented at top international AI conferences sponsored by IEEE.
 
 Dedicated to advancing immersive and interactive digital technologies, I am always open to academic exchange and collaboration. I am passionate about leveraging my expertise to foster innovation and enhance user experiences in digital environments. Please feel free to contact me anytime to discuss potential opportunities or ideas in these exciting fields.
 
@@ -41,7 +41,6 @@ News
   - [BMVC 2025](https://bmvc2025.org) — accepted the invitation to serve as reviewer for the British Machine Vision Conference 2025.
 
 - **2025.4** Awarded **Outstanding Paper** at the [**3rd Guangdong-Hong Kong-Macao Greater Bay Area Interdisciplinary Doctoral Forum 2025**](https://ias.um.edu.mo/category/%E7%B2%B5%E6%B8%AF%E6%BE%B3%E5%A4%A7%E7%81%A3%E5%8D%80%E8%B7%A8%E5%AD%B8%E7%A7%91%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%AB%96%E5%A3%87/?lang=zh-hant) (Machine Reasoning and Human Reasoning Panel).
-- 
 
 - **2025.3** Invited as **Reviewer** for:
   - *Multimodal Foundation Models for Spatial Intelligence* Workshop, [**ACM Multimedia 2025**](https://acmmm2025.org/), Dublin, Oct 27–28.
