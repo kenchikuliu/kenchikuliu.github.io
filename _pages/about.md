@@ -26,6 +26,7 @@ News
 ## Liu Cong's Papers
 
 ### Academic Services
+- **2025.6** Invited to serve as a **member of the Editorial Board** for *[Journal of Advances in Engineering Sciences and Technology (JAEST)](https://jaest.cscholar.com/index.php/JAEST/index)*.
 
 
 - **2025.5** The paper **['PLAT: Predictive LLM-Driven Active Teleoperation with Adaptive Vision and Interaction Optimization'](https://2025.hci.international/)** presents a predictive teleoperation framework leveraging large language models to optimize vision-based control and multimodal human-machine interaction. This work has been accepted for **[HCII 2025](https://2025.hci.international/)**, highlighting novel pathways in enhancing responsiveness and adaptiveness in remote robotic control.
