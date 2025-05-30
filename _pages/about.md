@@ -26,6 +26,10 @@ News
 ## Liu Cong's Papers
 
 ### Academic Services
+- **2025.5** Invited as **Reviewer** for:
+  - [**ICML 2025 Workshop on Reliable and Responsible Foundation Models (R2-FM)**](https://r2-fm.github.io/), focusing on trustworthy, ethical, and robust development of foundation models.
+
+
 - **2025.6** Invited to serve as a **member of the Editorial Board** for *[Journal of Advances in Engineering Sciences and Technology (JAEST)](https://jaest.cscholar.com/index.php/JAEST/index)*.
 
 
