@@ -26,7 +26,8 @@ News
 ## Liu Cong's Papers
 
 ### Academic Services
-- **2025.6** The Artwork accepted for **exhibition** at the [**AIART Gallery**](https://aiart-2025.github.io/) of [**IEEE ICME 2025**](https://2025.ieeeicme.org/), held at the **Nantes Congress Centre**, France. Part of the 7th AIART Workshop, the gallery showcases innovative works on **AI-Generated Content (AIGC)**. The selected piece explores the **tension between AI industrialization and human emotion**, contributing to ongoing discourse on aesthetics, ethics, and human-AI collaboration.
+- **2025.6** The Artwork *Within the Eye* accepted for **exhibition** at the [**AIART Gallery**](https://aiart-2025.github.io/) of [**IEEE ICME 2025**](https://2025.ieeeicme.org/), held at the **Nantes Congress Centre**, France. Part of the 7th AIART Workshop, the gallery showcases innovative works on **AI-Generated Content (AIGC)**. The selected piece explores the **tension between AI industrialization and human emotion**, contributing to ongoing discourse on aesthetics, ethics, and human-AI collaboration.
+
 
 - **2025.6** Invited as **Reviewer** for:
 - **1st Workshop on [Interactive Human-centric Foundation Models (I-HFM)](https://i-hfm-2025.github.io/I-HFM-2025/)**, in conjunction with [**ICCV 2025**](https://iccv2025.thecvf.com/), Hawaii Convention Center, Honolulu, USA. This workshop focuses on real-time interaction, environmental adaptability, and agent collaboration for AGI-aligned development.
