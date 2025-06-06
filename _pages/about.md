@@ -26,11 +26,18 @@ News
 ## Liu Cong's Papers
 
 ### Academic Services
-- **2025.5** Invited as **Reviewer** for:
-  - [**ICML 2025 Workshop on Reliable and Responsible Foundation Models (R2-FM)**](https://r2-fm.github.io/), focusing on trustworthy, ethical, and robust development of foundation models.
+- **2025.6** work accepted for **exhibition** at the [**AIART Gallery**](https://aiart-2025.github.io/) of [**IEEE ICME 2025**](https://2025.ieeeicme.org/), to be held at the **exhibition hall of the Nantes Congress Centre** in **Nantes, France**. As part of the 7th AIART Workshop, this gallery highlights cutting-edge creative practices at the intersection of artificial intelligence and the arts. With a central theme on **AI-Generated Content (AIGC)**, the exhibition explores how AI reshapes artistic expression across painting, film, literature, media studies, and cognitive science. The selected work engages with the **tension between AI industrialization and human emotion**, contributing to critical discussions on aesthetics, ethics, and human-AI co-creation.
 
+
+- **2025.6** Invited as **Reviewer** for:
+  - **1st Workshop on Interactive Human-centric Foundation Models**, in conjunction with [**ICCV 2025**](https://iccv2025.thecvf.com/), Hawaii Convention Center, Honolulu, USA. The workshop explores the emerging research direction of Interactive Human-Centric Foundation Models (I-HFM), focusing on real-time interaction, environmental adaptability, and agent collaboration for AGI-aligned development.
 
 - **2025.6** Invited to serve as a **member of the Editorial Board** for *[Journal of Advances in Engineering Sciences and Technology (JAEST)](https://jaest.cscholar.com/index.php/JAEST/index)*.
+
+
+
+- **2025.5** Invited as **Reviewer** for:
+  - [**ICML 2025 Workshop on Reliable and Responsible Foundation Models (R2-FM)**](https://r2-fm.github.io/), focusing on trustworthy, ethical, and robust development of foundation models.
 
 
 - **2025.5** The paper **['PLAT: Predictive LLM-Driven Active Teleoperation with Adaptive Vision and Interaction Optimization'](https://2025.hci.international/)** presents a predictive teleoperation framework leveraging large language models to optimize vision-based control and multimodal human-machine interaction. This work has been accepted for **[HCII 2025](https://2025.hci.international/)**, highlighting novel pathways in enhancing responsiveness and adaptiveness in remote robotic control.
