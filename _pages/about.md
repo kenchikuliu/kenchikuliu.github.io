@@ -32,8 +32,12 @@ News
 ### 📝 Reviewer Service (2025)
 
 - **2025.6** Invited as **Reviewer** for:  
-  - **1st Workshop on [Interactive Human-centric Foundation Models (I-HFM)](https://i-hfm-2025.github.io/I-HFM-2025/)**, in conjunction with [**ICCV 2025**](https://iccv2025.thecvf.com/), Hawaii Convention Center, Honolulu, USA. This workshop focuses on real-time interaction, environmental adaptability, and agent collaboration for AGI-aligned development.  
-  - **[3D-VAST: Workshop on 3D Visual Analysis and Scene Understanding Technologies](https://3d-vast.github.io/)**, in conjunction with **ICCV 2025**, Honolulu, Hawaii, USA. The workshop centers on advancements in 3D vision, scene understanding, neural rendering, and multimodal interaction technologies for real-world and industrial applications.
+  - **[NeurIPS 2025 – Position Paper Track](https://neurips.cc/)**  
+    Officially confirmed as a reviewer. The Position Paper Track emphasizes forward-looking perspectives and foundational insights shaping the future of AI. Further review instructions will be provided by the track chairs.
+  - **[1st Workshop on Interactive Human-centric Foundation Models (I-HFM)](https://i-hfm-2025.github.io/I-HFM-2025/)**, in conjunction with [**ICCV 2025**](https://iccv2025.thecvf.com/), Hawaii Convention Center, Honolulu, USA.  
+    This workshop focuses on real-time interaction, environmental adaptability, and agent collaboration for AGI-aligned development.  
+  - **[3D-VAST: Workshop on 3D Visual Analysis and Scene Understanding Technologies](https://3d-vast.github.io/)**, in conjunction with **ICCV 2025**, Honolulu, Hawaii, USA.  
+    The workshop centers on advancements in 3D vision, scene understanding, neural rendering, and multimodal interaction technologies for real-world and industrial applications.
 
 
 - **2025.6** Invited to serve as a **member of the Editorial Board** for *[Journal of Advances in Engineering Sciences and Technology (JAEST)](https://jaest.cscholar.com/index.php/JAEST/index)*.
