@@ -25,6 +25,8 @@ News
 ======
 ## Liu Cong's Papers
 
+- **2025.7** The paper **[MR-MultiTwin: A Mixed Reality Platform for Multi-User Control of Industrial Digital Twins](http://www.ccssta.org.cn/)** presents a platform enabling collaborative multi-user interaction with industrial digital twins through mixed reality. This work has been accepted for the **[2025 IEEE 26th Annual Conference on China Simulation Technology and Application (CCSSTA)](http://www.ccssta.org.cn/)**, to be presented on 2025-07-11 in Shenzhen, China.
+
 ### Academic Services
 - **2025.6** The Artwork *Within the Eye* accepted for **exhibition** at the [**AIART Gallery**](https://aiart-2025.github.io/) of [**IEEE ICME 2025**](https://2025.ieeeicme.org/), held at the **Nantes Congress Centre**, France. Part of the 7th AIART Workshop, the gallery showcases innovative works on **AI-Generated Content (AIGC)**. The selected piece explores the **tension between AI industrialization and human emotion**, contributing to ongoing discourse on aesthetics, ethics, and human-AI collaboration.
 
