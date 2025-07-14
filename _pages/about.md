@@ -27,9 +27,9 @@ News
 ### 🎉 Recent Achievement | 最新成果
 
 - **2025.7**  
-The paper **[Empowering Equitable Digital Futures: Integrating Generative AI and 3D/XR Technologies for Culturally Responsive Capacity Building](https://unu.edu/macau/aiconf2025)** explores how generative AI and 3D/XR technologies can enable inclusive, culturally responsive digital empowerment.  
-This work has been accepted for the **[UNU Macau AI Conference 2025](https://unu.edu/macau/aiconf2025)**, organized by the United Nations University and to be held on **October 23–25, 2025**, in **Macau SAR, China**.  
-The author has been **invited to deliver a featured talk**, and the paper will be published in the Springer-edited volume *AI for Humanity: Building an Equitable Digital Future*.
+The paper **[Empowering Equitable Digital Futures](https://unu.edu/macau/aiconf2025)** was accepted at the **UNU Macau AI Conference 2025**, organized by United Nations University and held in **Macau SAR, China**.  
+The author was **invited to give a featured talk**, and the work will be published in Springer’s *AI for Humanity* series, highlighting how Generative AI and XR technologies can drive inclusive, culturally responsive digital transformation.
+
 
 
 
