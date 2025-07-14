@@ -27,9 +27,10 @@ News
 ### 🎉 Recent Achievement | 最新成果
 
 - **2025.7**  
-📄 **“Empowering Equitable Digital Futures: Integrating Generative AI and 3D/XR Technologies for Culturally Responsive Capacity Building”**  
-✅ Accepted at the **[UNU Macau AI Conference 2025](https://unu.edu/macau/aiconf2025)**, to be held in **Macau SAR, China** on **October 23–25, 2025**.  
-📰 This work will appear in the Springer-edited volume _**AI for Humanity: Building an Equitable Digital Future**_, presenting a visionary framework on how **Generative AI and 3D/XR technologies** can drive **culturally responsive digital empowerment**—reshaping learning, creativity, and life experiences across diverse communities.
+The paper **[Empowering Equitable Digital Futures: Integrating Generative AI and 3D/XR Technologies for Culturally Responsive Capacity Building](https://unu.edu/macau/aiconf2025)** explores how generative AI and 3D/XR technologies can enable inclusive, culturally responsive digital empowerment.  
+This work has been accepted for the **[UNU Macau AI Conference 2025](https://unu.edu/macau/aiconf2025)**, organized by the United Nations University and to be held on **October 23–25, 2025**, in **Macau SAR, China**.  
+The author has been **invited to deliver a featured talk**, and the paper will be published in the Springer-edited volume *AI for Humanity: Building an Equitable Digital Future*.
+
 
 
 - **2025.7** The paper **[MR-MultiTwin: A Mixed Reality Platform for Multi-User Control of Industrial Digital Twins](http://www.ccssta.org.cn/)** presents a platform enabling collaborative multi-user interaction with industrial digital twins through mixed reality. This work has been accepted for the **[2025 IEEE 26th Annual Conference on China Simulation Technology and Application (CCSSTA)](http://www.ccssta.org.cn/)**, to be presented on 2025-07-11 in Shenzhen, China.
