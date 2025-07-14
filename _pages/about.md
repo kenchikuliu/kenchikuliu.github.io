@@ -26,8 +26,7 @@ News
 
 ### 🎉 Recent Achievement | 最新成果
 
-- **2025.7**  
-The paper **[Empowering Equitable Digital Futures](https://unu.edu/macau/aiconf2025)** was accepted at the **UNU Macau AI Conference 2025**, organized by United Nations University and held in **Macau SAR, China**.  
+- **2025.7**  The paper **[Empowering Equitable Digital Futures](https://unu.edu/macau/aiconf2025)** was accepted at the **UNU Macau AI Conference 2025**, organized by United Nations University and held in **Macau SAR, China**.  
 The author was **invited to give a featured talk**, and the work will be published in Springer’s *AI for Humanity* series, highlighting how Generative AI and XR technologies can drive inclusive, culturally responsive digital transformation.
 
 
