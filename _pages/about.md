@@ -26,9 +26,12 @@ News
 
 ### 🎉 Recent Achievement | 最新成果
 
+- **2025.8** I served as a **Reviewer** for **MEIE 2025 — The 8th International Conference on Mechanical, Electric, and Industrial Engineering**, held in **Taiyuan, China** (July 12–14, 2025). I was **awarded the official Reviewer Certificate** on September 5, 2025, in recognition of contributions to the rigor and integrity of the proceedings. [Certificate](https://img.fy6b.com/2025/09/07/9a31bca441bc1.png)
+
+
+
 - **2025.7**  The paper **[Empowering Equitable Digital Futures](https://unu.edu/macau/aiconf2025)** was accepted at the **UNU Macau AI Conference 2025**, organized by United Nations University and held in **Macau SAR, China**.  
 And I will be **invited to give a featured talk**, and the work will be published in Springer’s *AI for Humanity* series, highlighting how Generative AI and XR technologies can drive inclusive, culturally responsive digital transformation.
-
 
 
 
