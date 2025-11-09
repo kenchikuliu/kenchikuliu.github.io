@@ -26,6 +26,10 @@ News
 
 ### 🎉 Recent Achievement | 最新成果
 
+* **2025.10** I was honored to serve as **Chair and Speaker** for the **AI + Education** session at the **UNU Macau AI Conference 2025 — UNU Macau Milestone Series**, held in **Macau SAR, China** (October 23–25, 2025), under the theme *“AI for Humanity: Building an Equitable Digital Future.”* ([unu.edu](https://unu.edu) | [Details](https://www.notion.so/2025-UNU-AI-Education-Conf-29800092b977800ebb42f993455cb297))
+
+
+
 - **2025.8** I served as a **Reviewer** for **MEIE 2025 — The 8th International Conference on Mechanical, Electric, and Industrial Engineering**, held in **Taiyuan, China** (July 12–14, 2025). I was **awarded the official Reviewer Certificate** on September 5, 2025, in recognition of contributions to the rigor and integrity of the proceedings. [Certificate](https://img.fy6b.com/2025/09/07/9a31bca441bc1.png)
 
 
