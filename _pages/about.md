@@ -25,8 +25,10 @@ News
 ### Academic Services
 
 ### 🎉 Recent Achievement | 最新成果
+- **2025.11** I began serving as a **Reviewer** for **Pattern Recognition** (Elsevier), contributing to the peer-review process of a leading international journal in **computer vision and pattern analysis**.
 
-* **2025.10** I was honored to serve as **Chair and Speaker** for the **AI + Education** session at the **UNU Macau AI Conference 2025 — UNU Macau Milestone Series**, held in **Macau SAR, China** (October 23–25, 2025), under the theme *“AI for Humanity: Building an Equitable Digital Future.”* ([unu.edu](https://unu.edu) | [Details](https://www.notion.so/2025-UNU-AI-Education-Conf-29800092b977800ebb42f993455cb297))
+
+- **2025.10** I was honored to serve as **Chair and Speaker** for the **AI + Education** session at the **UNU Macau AI Conference 2025 — UNU Macau Milestone Series**, held in **Macau SAR, China** (October 23–25, 2025), under the theme *“AI for Humanity: Building an Equitable Digital Future.”* ([unu.edu](https://unu.edu) | [Details](https://www.notion.so/2025-UNU-AI-Education-Conf-29800092b977800ebb42f993455cb297))
 
 
 
