@@ -1,16 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Project Pages"
-    url: https://liu-publications-site.pages.dev/
-
   - title: "Talks"
-    url: /talks/
+    url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/
+    url: /teaching/    
     
   - title: "CV"
     url: /cv/

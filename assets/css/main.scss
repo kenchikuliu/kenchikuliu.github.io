@@ -35,79 +35,7 @@
 @import "sidebar";
 
 @import "vendor/font-awesome/fontawesome";
-$fa-font-display: swap;
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-.profile-summary {
-  margin-bottom: 1.5em;
-  padding: 1em 1.1em;
-  background: mix(#fff, $info-color, 94%);
-  border: 1px solid mix(#fff, $info-color, 76%);
-  border-radius: $border-radius;
-}
-
-.profile-summary p:last-child,
-.highlight-grid p:last-child,
-.publication-cta p:last-child {
-  margin-bottom: 0;
-}
-
-.research-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45em;
-  padding: 0;
-  list-style: none;
-}
-
-.research-tags li {
-  margin: 0;
-  padding: 0.25em 0.65em;
-  font-size: $type-size-6;
-  color: mix(#000, $primary-color, 35%);
-  background: mix(#fff, $primary-color, 92%);
-  border: 1px solid mix(#fff, $primary-color, 75%);
-  border-radius: 999px;
-}
-
-.highlight-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 0.85em;
-  margin: 1.25em 0 1.75em;
-}
-
-.highlight-grid article {
-  padding: 0.9em 1em;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-}
-
-.highlight-grid h3 {
-  margin-top: 0;
-  font-size: $type-size-5;
-}
-
-.news-list {
-  padding-left: 1.1em;
-}
-
-.news-list li {
-  margin-bottom: 0.7em;
-}
-
-.publication-cta {
-  margin: 1.5em 0;
-  padding: 1em 1.1em;
-  border-left: 4px solid $info-color;
-  background: mix(#fff, $info-color, 94%);
-}
-
-@include breakpoint($medium) {
-  .highlight-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
