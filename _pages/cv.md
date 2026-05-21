@@ -3,36 +3,49 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+description: "Academic CV summary for Cong Liu."
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science, HITsz & PCL, 2026 (expected)
-* M.S. in Computer Science and Civil Engineering, HITsz, 2019
-  
-Research area
-======
-* 3D Computer Vision
-* Generative AI and LLM
-* Extended Reality
-  
-  
-Service and leadership
-======
-* Conference Organization: I have actively organized panels and workshops at major international conferences, facilitating discussions on the latest technological advancements and their implications.
+## Education
 
-* Academic Reviewing: I serve as a reviewer for esteemed journals and conferences in computer science, ensuring the integrity and quality of scholarly publications.
+* Ph.D. in Computer Science, Harbin Institute of Technology, Shenzhen and Peng Cheng Laboratory, 2026 expected
+* M.S. in Computer Science and Civil Engineering, Harbin Institute of Technology, Shenzhen, 2019
 
-* Session Chairing: My responsibilities have included chairing sessions at conferences, where I help guide discussions and ensure that presentations run smoothly and effectively.
+## Research Areas
 
-* Mentorship: I am committed to mentoring junior researchers and students, offering guidance on both academic and professional development.
+* 3D computer vision, visual SLAM, and 3D reconstruction
+* Extended reality, mixed reality, and industrial digital twins
+* Generative AI, large language models, and human-AI interaction
 
-* Diversity and Inclusion: I work to promote diversity and inclusion within the tech community, initiating and supporting programs that engage underrepresented groups in technology.
+## Selected Publications
 
-* Public Speaking: I am a frequent speaker at public forums, advocating for the responsible and ethical use of technology to address societal challenges.
+* DVP-MVS and MSP-MVS, AAAI 2025
+* MR-IntelliAssist, PLAT, and Operational Twins, HCII 2025
+* LDFE-SLAM, Machines
+* MR-MultiTwin, IEEE CCSSTA 2025
 
-* Community Engagement: I participate in community outreach programs that aim to educate the public about the benefits and implications of new technologies.
+See the [publications page]({{ base_path }}/publications/) and the [project-page publication hub](https://liu-publications-site.pages.dev/) for details.
+
+## Service and Leadership
+
+* Reviewer for conferences, workshops, and journals in computer vision, machine learning, multimedia, and human-AI interaction.
+* Session chair and speaker for the AI + Education session at the UNU Macau AI Conference 2025.
+* Editorial board service for engineering and pattern-recognition related journals.
+* Mentorship and community engagement around XR, AI, and responsible digital technologies.
+
+## Honors and Awards
+
+* Outstanding Paper, 3rd Guangdong-Hong Kong-Macao Greater Bay Area Interdisciplinary Doctoral Forum 2025
+* National Scholarship
+* National Encouragement Scholarship
+* Excellence Award in Zhou Peiyuan Mechanics National Competition
+* 2nd Prize in International Mathematical Modeling Competition
+* 1st Prize in National Higher Education Institutions Mathematical Modeling Competition
+* First-Class Scholarship, school level
+* Merit Student, school level
+* Golden Award in China "Internet +" Innovation and Entrepreneurship Competition, school level
+* Personal Honorary Title of "2025 Youth Maker Laboratory" of Harbin Institute of Technology
