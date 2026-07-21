@@ -63,7 +63,7 @@ Served as a reviewer for the 8th International Conference on Mechanical, Electri
     <div class="timeline-entry" markdown="1">
 **Featured talk, UNU Macau AI Conference 2025**
 
-[_Empowering Equitable Digital Futures_](https://unu.edu/macau/aiconf2025) was accepted for the conference and invited as a featured talk. The work is scheduled for Springer’s _AI for Humanity_ series.
+[_Empowering Equitable Digital Futures_](/projects/empowering-equitable-digital-futures/) was accepted for the [UNU Macau AI Conference 2025](https://unu.edu/macau/aiconf2025) and invited as a featured talk. The work is scheduled for Springer’s _AI for Humanity_ series.
     </div>
   </li>
   <li>
@@ -71,7 +71,7 @@ Served as a reviewer for the 8th International Conference on Mechanical, Electri
     <div class="timeline-entry" markdown="1">
 **Paper accepted, IEEE CCSSTA 2025**
 
-[_MR-MultiTwin: A Mixed Reality Platform for Multi-User Control of Industrial Digital Twins_](http://www.ccssta.org.cn/) was accepted for the 2025 IEEE Conference on China Simulation Technology and Application. [Certificate](https://img.fy6b.com/2025/07/14/f234ef18517f0.jpg)
+[_MR-MultiTwin: A Mixed Reality Platform for Multi-User Control of Industrial Digital Twins_](/projects/mr-multitwin/) was accepted for the [2025 IEEE Conference on China Simulation Technology and Application](http://www.ccssta.org.cn/). [Certificate](https://img.fy6b.com/2025/07/14/f234ef18517f0.jpg)
     </div>
   </li>
   <li>
@@ -79,7 +79,7 @@ Served as a reviewer for the 8th International Conference on Mechanical, Electri
     <div class="timeline-entry" markdown="1">
 **Exhibition, IEEE ICME 2025 AIART Gallery**
 
-The artwork [_Crypto-Tear: Iris Algorithm_](https://img.fy6b.com/2025/07/10/e79eadfc5e795.jpg) was selected for the AIART Gallery at IEEE ICME 2025 in Nantes, France. [Certificate](https://img.fy6b.com/2025/07/10/f7c707a71e875.png)
+The artwork [_Crypto-Tear: Iris Algorithm_](/projects/crypto-tear-iris-algorithm/) was selected for the [AIART Gallery](https://aiart-2025.github.io/) at IEEE ICME 2025 in Nantes, France. [Certificate](https://img.fy6b.com/2025/07/10/f7c707a71e875.png)
     </div>
   </li>
   <li>
@@ -95,7 +95,7 @@ Confirmed as a reviewer for [NeurIPS 2025 - Position Paper Track](https://neurip
     <div class="timeline-entry" markdown="1">
 **Papers accepted, HCII 2025**
 
-_PLAT: Predictive LLM-Driven Active Teleoperation with Adaptive Vision and Interaction Optimization_, _From Digital Twins to Operational Twins_, and _MR-IntelliAssist_ were accepted for [HCII 2025](https://2025.hci.international/).
+[_PLAT: Predictive LLM-Driven Active Teleoperation with Adaptive Vision and Interaction Optimization_](/projects/plat/), [_From Digital Twins to Operational Twins_](/projects/operational-twins/), and [_MR-IntelliAssist_](/projects/mr-intelliassist/) were accepted for [HCII 2025](https://2025.hci.international/).
     </div>
   </li>
   <li>
@@ -135,7 +135,7 @@ Invited to the editorial boards of the _[Journal of Deep Learning and Pattern Re
     <div class="timeline-entry" markdown="1">
 **Two papers accepted, AAAI 2025**
 
-[_DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo_](https://arxiv.org/abs/2412.11578) and [_MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo_](https://arxiv.org/abs/2407.19323) were accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
+[_DVP-MVS: Synergize Depth-Edge and Visibility Prior for Multi-View Stereo_](/projects/dvp-mvs/) and [_MSP-MVS: Multi-Granularity Segmentation Prior Guided Multi-View Stereo_](/projects/msp-mvs/) were accepted at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
     </div>
   </li>
   <li>
@@ -143,7 +143,7 @@ Invited to the editorial boards of the _[Journal of Deep Learning and Pattern Re
     <div class="timeline-entry" markdown="1">
 **Paper accepted, CEI 2024**
 
-[_Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis_](https://arxiv.org/abs/2408.05635) was accepted for CEI 2024.
+[_Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis_](/projects/gaussian-slam-depth-priors/) was accepted for [CEI 2024](https://2024.ic-cei.org/).
     </div>
   </li>
   <li>
@@ -151,7 +151,7 @@ Invited to the editorial boards of the _[Journal of Deep Learning and Pattern Re
     <div class="timeline-entry" markdown="1">
 **Oral presentation, IEEE ACIRS 2024**
 
-[_Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization_](https://arxiv.org/abs/2405.15082) was published at [IEEE ACIRS 2024](https://ieeexplore.ieee.org/xpl/conhome/10684879/proceeding) and selected for oral presentation.
+[_Advancements in Translation Accuracy for Stereo Visual-Inertial Initialization_](/projects/stereo-vio-initialization/) was published at [IEEE ACIRS 2024](https://ieeexplore.ieee.org/xpl/conhome/10684879/proceeding) and selected for oral presentation.
     </div>
   </li>
   <li>
@@ -159,7 +159,7 @@ Invited to the editorial boards of the _[Journal of Deep Learning and Pattern Re
     <div class="timeline-entry" markdown="1">
 **Paper accepted, IEEE IAEAC 2024**
 
-[_BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras_](https://arxiv.org/abs/2403.19886) was accepted for [IEEE IAEAC 2024](http://2024.iaeac.org/).
+[_BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras_](/projects/bundledslam/) was accepted for [IEEE IAEAC 2024](http://2024.iaeac.org/).
     </div>
   </li>
 </ol>
